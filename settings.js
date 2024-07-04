@@ -16,7 +16,7 @@ global.vs = '1.1.5'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
 global.botNumberCode = "" //Ejemplo: +59309090909
-global.phoneNumber = ""
+global.phoneNumber = "+528334468762"
 
 //---------[ FECHA/IDIOMAS ]---------
 global.place = 'America/Bogota' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
