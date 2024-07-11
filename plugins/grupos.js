@@ -338,6 +338,7 @@ if (total == 0) return m.reply(`*⚠️ 𝐄𝐒𝐓𝐄 𝐆𝐑𝐔𝐏𝐎 �
   conn.sendTextWithMentions(m.chat, `*[ ⚠️ 𝘙𝘌𝘝𝘐𝘚𝘐𝘖𝘕 𝘋𝘌 𝘐𝘕𝘈𝘊𝘛𝘐𝘝𝘖𝘚 ⚠️ ]*\n\n*ɢʀᴜᴘᴏ:* ${groupMetadata.subject}\n*ᴍɪᴇᴍʙʀᴏs:* ${sum}\n\n*[ 👻 𝘓𝘐𝘚𝘛𝘈 𝘋𝘌 𝘍𝘈𝘕𝘛𝘈𝘚𝘔𝘈𝘚 👻 ]*\n${sider.map((v) => '  👉🏻 @' + v.replace(/@.+/, '')).join('\n')}\n\n*𝘕𝘖𝘛𝘈:* 𝘌𝘴𝘵𝘰 𝘱𝘶𝘦𝘥𝘦 𝘯𝘰 𝘴𝘦𝘳 100% 𝘢𝘤𝘦𝘳𝘵𝘢𝘥𝘰, 𝘦𝘭 𝘣𝘰𝘵 𝘪𝘯𝘪𝘤𝘪𝘢 𝘦𝘭 𝘤𝘰𝘯𝘵𝘦𝘰 𝘥𝘦 𝘮𝘦𝘯𝘴𝘢𝘫𝘦 𝘢𝘱𝘢𝘳𝘵𝘪𝘳 𝘥𝘦 𝘲𝘶𝘦 𝘴𝘦 𝘢𝘤𝘵𝘪𝘷𝘰 𝘦𝘯 𝘦𝘴𝘵𝘦 𝘯𝘶𝘮𝘦𝘳𝘰`, m)}
   
 if (command == 'grouplist' || command == 'listgc') {
+let chats = global.db.data.chats[m.chat]
 let anu = await store.chats.all().filter(v => v.id.endsWith('@g.us')).map(v => v.id)
 let teks = `💢 *\`LISTA DE GRUPOS\`*\n\n◉ Total: ${anu.length} Grupos\n\n`
 for (let i of anu) {
