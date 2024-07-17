@@ -318,7 +318,57 @@ text26: `*⚡ Are you looking for quality hots that fit your pocket?*
 
 🧑‍💻 *Contact (Diego Flores)*
 _(Doubts ONLY ABOUT THE HOST)_
-• https://wa.me/50497150165` }
+• https://wa.me/50497150165`, 
+text27: (nna, host, paypal, fb) => `*\`💫 We present you a new hosting: "Infinity-Wa" own hosts 😎\`*
+
+*Is your Nokia very slow and do you need to have your bot active 24/7?*
+
+> *We have the best option to keep your bot active 24/7, at very affordable prices. It's very cheap and everyone can buy.*
+
+*🚩Prices:*
+* 1GB, 100 CPU = 1Dollar
+* 2GB, 120 CPU = 2Dollar
+* 3GB, 140 CPU = 3Dollar
+* 4GB, 175 CPU = 4Dollar
+* 5GB, 200 CPU = 5 Dollar.
+
+🟢 \`\`\`Host Information\`\`\`
+
+💻 *Page:*
+https://infinity-wa.com
+
+*💙 Dashboard:*
+https://dash.infinity-wa.com
+
+⚙️ *Panel*
+https://panel.infinity-wa.com
+
+🧡 *WhatsApp Channel:*
+${nna}
+
+*🟣 Discord:*
+https://discord.com/invite/vgfpe4Nwd8
+
+💚 *Group:*
+${host}
+
+🛍️ *Payment method:*
+*• PayPal :* ${paypal}
+*• Mercado pago, alias:* OficialGB
+*• Orange x, alias:* infinity-host
+*• Yape (Peru):* +51948705559
+*• Wow, CVU:* 0000007900204304075982
+*• I pay with a card:* wa.me/390684003755
+
+*• Payment link:*
+• _link.mercadopago.com.ar/h0sting_
+• _https://payment-link.astropay.com/RbMJ_
+*• Patreon:*_patreon.com/Infinity_wa_hosting_
+*• Kofi:* _https://ko-fi.com/infinitywa_
+
+*\`🗣📲 Contact us for more information or to acquire the services:\`*
+• ${fb}
+• wa.me/573147616444` }
 
 const menu = {
 text: `❐ ᴘʀᴇғɪx`, 

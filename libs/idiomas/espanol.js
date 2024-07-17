@@ -242,10 +242,10 @@ text20: (fb, md) => `╭─────────────┈⊷
 https://youtu.be/o6ZSpMOsvHs?si=fzwZIDN5LPE1w0pI
 
 *📍Dashboard:*
-https://dashboard.infinitywa.xyz
+https://dash.infinity-wa.com
 
 *✅ Panel:*
-https://live.panel-infinitywa.store
+https://panel.infinity-wa.com
 
 *🧰 Bot de Support: exclusivo para host* 
 wa.me/message/FETBF7YBO37CG1
@@ -320,7 +320,7 @@ text26: `*⚡ ¿Esta buscando un hots de calidad y al ajuste de su bolsillo?*
 🧑‍💻 *Contacto (Diego Flores)*
 _(Dudas UNICAMENTE SOBRE EL HOST)_
 • https://wa.me/50497150165`, 
-text27: (nna, host, paypal, fb) => `*\`💫 Te presentamos un nuevo hosting: "Infinity-Wa Host"\`*
+text27: (nna, host, paypal, fb) => `*\`💫 Te presentamos un nuevo hosting: "Infinity-Wa" host propios 😎\`*
 
 *¿Muy lento tu nokia y necesitas tener activo tu bot 24/7?*
 
@@ -336,10 +336,19 @@ text27: (nna, host, paypal, fb) => `*\`💫 Te presentamos un nuevo hosting: "In
 🟢 \`\`\`Información del Host\`\`\`
 
 💻 *Página:*
-https://host.panel-infinitywa.store
+https://infinity-wa.com
+
+*💙 Dashboard:*
+https://dash.infinity-wa.com
+
+⚙️ *Panel*
+https://panel.infinity-wa.com
 
 🧡 *Canal de WhatsApp:*
 ${nna}
+
+*🟣 Discord:*
+https://discord.com/invite/vgfpe4Nwd8
 
 💚 *Grupo:*
 ${host}
@@ -347,14 +356,20 @@ ${host}
 🛍️ *Método de pago:*
 *• PayPal :* ${paypal}
 *• Mercado pago, alías:* OficialGB
-*• Naranja x, alías:* OficialGL
+*• Naranja x, alías:* infinity-host
 *• Yape (Perú) :* +51948705559
+*• Uala, CVU:* 0000007900204304075982
+*• Pago con tarjeta:* wa.me/390684003755
 
-*\`💙 Contactanos para más información o alquidir los servicios:\`*
+*• Link de pago:*
+• _link.mercadopago.com.ar/h0sting_
+• _https://payment-link.astropay.com/RbMJ_
+*• Patreon:*_patreon.com/Infinity_wa_hosting_
+*• Kofi:* _https://ko-fi.com/infinitywa_
+
+*\`🗣📲 Contactanos para más información o alquidir los servicios:\`*
 • ${fb}
-• wa.me/527294888993
-• wa.me/5492964650915` }
-
+• wa.me/573147616444` } 
 const menu = {
 text: `❐ ᴘʀᴇғɪᴊᴏ`, 
 text2: `❐ ғᴇᴄʜᴀ :`, 
