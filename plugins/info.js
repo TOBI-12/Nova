@@ -11,7 +11,7 @@ const baileys = require('@whiskeysockets/baileys')
  const ws = require('ws')
 const { smsg, getGroupAdmins, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, delay, format, logic, generateProfilePicture, parseMention, getRandom } = require('../libs/fuctions.js')
 let panel = "https://www.cafirexos.com"
-let panel2 = "https://host.panel-infinitywa.store"
+let panel2 = "https://panel.infinity-wa.com"
 let cafi = "https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2q"
 let cafi2 = "https://chat.whatsapp.com/FBtyc8Q5w2iJXVl5zGJdFJ"
 
