@@ -241,10 +241,10 @@ text20: `╭─────────────┈⊷
 https://youtu.be/o6ZSpMOsvHs?si=fzwZIDN5LPE1w0pI
 
 *📍Dashboard:*
-https://dashboard.infinitywa.xyz
+https://dash.infinitywa-host.com
 
 *✅ Panel:*
-https://live.panel-infinitywa.store
+https://panel.infinitywa-host.com
 
 *🧰 Support Bot: exclusive for hosts*
 wa.me/message/FETBF7YBO37CG1
@@ -335,13 +335,13 @@ text27: (nna, host, paypal, fb) => `*\`💫 We present you a new hosting: "Infin
 🟢 \`\`\`Host Information\`\`\`
 
 💻 *Page:*
-https://infinity-wa.com
+https://infinitywa-host.com
 
 *💙 Dashboard:*
-https://dash.infinity-wa.com
+https://dash.infinitywa-host.com
 
 ⚙️ *Panel*
-https://panel.infinity-wa.com
+https://panel.infinitywa-host.com
 
 🧡 *WhatsApp Channel:*
 ${nna}

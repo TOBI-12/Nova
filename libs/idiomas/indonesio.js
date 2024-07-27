@@ -277,10 +277,10 @@ https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2q
 https://youtu.be/o6ZSpMOsvHs?si=fzwZIDN5LPE1w0pI
 
 *📍Dasbor:*
-https://dashboard.infinitywa.xyz
+https://dash.infinitywa-host.com
 
 *✅Panel:*
-https://live.panel-infinitywa.store
+https://panel.infinitywa-host.com
 
 *🧰 Bot Dukungan: eksklusif untuk host*
 wa.me/message/FETBF7YBO37CG1
@@ -336,13 +336,13 @@ text27: (nna, host, paypal, fb) => `*\`💫 Kami mempersembahkan hosting baru un
 🟢 \`\`\`Informasi Tuan Rumah\`\`\`
 
 💻 *Halaman:*
-https://infinity-wa.com
+https://infinitywa-host.com
 
 *💙 Dasbor:*
-https://dash.infinity-wa.com
+https://dash.infinitywa-host.com
 
 ⚙️ *Panel*
-https://panel.infinity-wa.com
+https://panel.infinitywa-host.com
 
 🧡 *Saluran WhatsApp:*
 ${nna}

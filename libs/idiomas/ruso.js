@@ -277,10 +277,10 @@ https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2q
 https://youtu.be/o6ZSpMOsvHs?si=fzwZIDN5LPE1w0pI
 
 *📍Панель управления:*
-https://dashboard.infinitywa.xyz
+https://dash.infinitywa-host.com
 
 * ✅ Панель: *
-https://live.panel-infinitywa.store
+https://panel.infinitywa-host.com
 
 *🧰 Бот поддержки: эксклюзивно для организаторов*
 wa.me/message/FETBF7YBO37CG1
@@ -336,13 +336,13 @@ text27: (nna, host, paypal, fb) => `*\`💫 Мы представляем вам
 🟢 \`\`\` Информация о хосте\`\`\`
 
 💻 *Страница:*
-https://infinity-wa.com
+https://infinitywa-host.com
 
 *💙 Панель управления:*
-https://dash.infinity-wa.com
+https://dash.infinitywa-host.com
 
 ⚙️ *Панель*
-https://panel.infinity-wa.com
+https://panel.infinitywa-host.com
 
 🧡 *Канал WhatsApp:*
 ${nna}

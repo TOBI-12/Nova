@@ -242,10 +242,10 @@ text20: (fb, md) => `╭─────────────┈⊷
 https://youtu.be/o6ZSpMOsvHs?si=fzwZIDN5LPE1w0pI
 
 *📍Dashboard:*
-https://dash.infinity-wa.com
+https://dash.infinitywa-host.com
 
 *✅ Panel:*
-https://panel.infinity-wa.com
+https://panel.infinitywa-host.com
 
 *🧰 Bot de Support: exclusivo para host* 
 wa.me/message/FETBF7YBO37CG1
@@ -336,13 +336,13 @@ text27: (nna, host, paypal, fb) => `*\`💫 Te presentamos un nuevo hosting: "In
 🟢 \`\`\`Información del Host\`\`\`
 
 💻 *Página:*
-https://infinity-wa.com
+https://infinitywa-host.com
 
 *💙 Dashboard:*
-https://dash.infinity-wa.com
+https://dash.infinitywa-host.com
 
 ⚙️ *Panel*
-https://panel.infinity-wa.com
+https://panel.infinitywa-host.com
 
 🧡 *Canal de WhatsApp:*
 ${nna}
