@@ -132,7 +132,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 //---------------[ NIVELES, ADVERTENCIA ]----------------
-global.multiplier = 90 // Cuanto más alto, más difícil subir de nivel 
+global.multiplier = 180 // Cuanto más alto, más difícil subir de nivel 
 global.maxwarn = '4' // máxima advertencias 
 
 //----------------------------------------------------
