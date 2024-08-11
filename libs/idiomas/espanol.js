@@ -21,17 +21,17 @@ text6: `Código de 8 digitos.`,
 text7: `Escriba sólo el número de`, 
 text8: `la opción para conectarse.`, 
 text9: (chalk) => `NO SE PERMITE NÚMEROS QUE NO SEAN ${chalk.bold.greenBright("1")} O ${chalk.bold.greenBright("2")}, TAMPOCO LETRAS O SÍMBOLOS ESPECIALES.\n${chalk.bold.yellowBright("CONSEJO: COPIE EL NÚMERO DE LA OPCIÓN Y PÉGUELO EN LA CONSOLA.")}`, 
-text10: `🟢 Comience con el código de país de su número de WhatsApp, ejemplo: +59178862672`, 
-text11: `🟢 Ingresa el número que sera bot\nPor ejemplo: +59178862672`, 
+text10: `🟢 Comience con el código de país de su número de WhatsApp, ejemplo: +527421168105`, 
+text11: `🟢 Ingresa el número que sera bot\nPor ejemplo: +527421168105`, 
 text12: `❌ Asegúrese de agregar el código de país.`, 
-text13: `👑 CÓDIGO DE VINCULACIÓN 👑:` }
+text13: `🦊 CÓDIGO DE VINCULACIÓN 🦊:` }
 
 //call
 const smscall = () => { return `Seras bloqueado*\n_Razon : por realizar una` }
 const smscall2 = () => { return `*Si accidentalmente llamaste póngase en contacto con mi creador para que te desbloquee.*` }
 
 //antiprivado
-const smsAntiPv = () => { return `*ᴇsᴛᴀ ᴘʀᴏʜɪʙɪᴅᴏ ʜᴀʙʟᴀʀ ᴀʟ ᴘʀɪᴠᴀᴅᴏ ᴅᴇʟ ʙᴏᴛ ᴘᴏʀ ʟᴏ ᴄᴜᴀʟ sᴇʀᴀs ʙʟᴏϙᴜᴇᴀᴅᴏ.*\n\n*ᴘᴀʀᴀ ᴜsᴀʀ ᴇʟ ʙᴏᴛ ᴜɴɪʀᴛᴇ ᴀʟ ɢʀᴜᴘᴏ ᴅᴇʟ ʙᴏᴛ*` }
+const smsAntiPv = () => { return `*ʜᴏʟᴀ ᴇsᴛᴀ ᴘʀᴏʜɪʙɪᴅᴏ ʜᴀʙʟᴀʀ ᴀʟ ᴘʀɪᴠᴀᴅᴏ ᴅᴇʟ ʙᴏᴛ ᴘᴏʀ ʟᴏ ᴄᴜᴀʟ sᴇʀᴀs ʙʟᴏϙᴜᴇᴀᴅᴏ.*\n\n*ᴘᴀʀᴀ ᴜsᴀʀ ᴇʟ ʙᴏᴛ ᴜɴɪʀᴛᴇ ᴀʟ ɢʀᴜᴘᴏ ᴅᴇʟ ʙᴏᴛ*` }
 
 //detec
 const smsAvisos = () => { return `[ 🔒 ＧＲＵＰＯ ＣＥＲＲＡＤＯ ]` }
@@ -45,7 +45,7 @@ const smsAvisos8 = () => { return `ᴸᵃ ᵈᵉˢᶜʳᶦᵖᶜᶦᵒ́ⁿ ᵈ�
 const smsAvisos9 = () => { return `*ᴱˡ ⁿᵒᵐᵇʳᵉ ᵈᵉˡ ᵍʳᵘᵖᵒ ᶠᵘᵉ ᶜᵃᵐᵇᶦᵃᵈᵒ ⁿᵘᵉᵛᵒˢ ⁿᵒᵐᵇʳᵉ ᵉˢ*` }
 
 //welcome
-const smsWel =  () => { return `Hola` }
+const smsWel =  () => { return `Hola bienvenido` }
 const smsWel2 = () => { return `¿COMO ESTAS? 😃` }
 const smsWel3 = () => { return `¿COMO ESTAS?😃\n\n『Bienvenido A` }
 const smsWel4 = () => { return `Un gusto conocerte amig@ 🤗\n\n_Recuerda leer las reglas del grupo para no tener ningun problema 🧐_\n\n*Solo disfrutar de este grupo y divertite 🥳*` }
@@ -60,12 +60,12 @@ const smsBye = () => { return `Adios` }
 const smsBye2 = () => { return `Bueno, se fue` }
 const smsBye3 = () => { return `Que dios lo bendiga 😎` }
 const smsBye4 = () => { return `Salió del grupo._` }
-const smsBye5 = () => { return `se fue\n┃ un fan de bts` }
-const promote = () => { return `Felicidades ahora eres parte del staff 🎉` }
-const demote = () => { return `ya no eres admins 🥲` }
+const smsBye5 = () => { return `se fue\n┃ un fan de Maniel` }
+const promote = () => { return `Felicidades ahora eres parte del staff 🦊` }
+const demote = () => { return `ya no eres admins 🥺` }
 
 //mensaje el la consola inicio
-const smsConexion = () => { return `🟢 𝘜𝘚𝘜𝘈𝘙𝘐𝘖 𝘊𝘖𝘕𝘌𝘊𝘛𝘈𝘋𝘖 =>` }
+const smsConexion = () => { return `🦊 𝘜𝘚𝘜𝘈𝘙𝘐𝘖 𝘊𝘖𝘕𝘌𝘊𝘛𝘈𝘋𝘖 =>` }
 const smsEscaneaQR = () => { return `ESCANEA EL QR, EXPIRA 45 SEG...` }
 const smsConectado = () => { return `YA ESTA CONECTADO CORRECTAMENTE` }
 const smsConexionOFF = () => { return `[ ⚠️ ]  Conexion cerrada, por favor elimina la carpeta sessions y escanea nuevamente.`}
