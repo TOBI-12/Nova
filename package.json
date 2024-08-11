@@ -1,5 +1,5 @@
 {
-  "name": "NovaBot-MD",
+  "name": "Lili-Bot-MD",
   "version": "1.1.5",
   "description": "Bot de whatsapp",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "qr": "node index.js qr",
   "code": "node index.js code",
   "vortexus": "bash vortexus.sh" },
-  "author": "elrebelde21",
+  "author": "Gokusama",
   "license": "ISC",
   "dependencies": {
 "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys@6.7.2",
